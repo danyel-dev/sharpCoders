@@ -2,7 +2,7 @@
 
 
 ## Código Base
-Essa é a estrutura base de um código feito em C#, o programa abaixo serve para imprimir a mensagem "Hello, World" na tela do console. A seguir vamos entender o que cada comando significa. 
+Essa é a estru tura base de um código feito em C#, o programa abaixo serve para imprimir a mensagem "Hello, World" na tela do console. A seguir vamos entender o que cada comando significa. 
 ```C#
 using System;
 
