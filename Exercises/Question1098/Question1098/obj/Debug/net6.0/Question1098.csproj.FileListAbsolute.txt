@@ -1,0 +1,15 @@
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\bin\Debug\net6.0\Question1098.exe
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\bin\Debug\net6.0\Question1098.deps.json
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\bin\Debug\net6.0\Question1098.runtimeconfig.json
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\bin\Debug\net6.0\Question1098.dll
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\bin\Debug\net6.0\Question1098.pdb
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\Question1098.csproj.AssemblyReference.cache
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\Question1098.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\Question1098.AssemblyInfoInputs.cache
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\Question1098.AssemblyInfo.cs
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\Question1098.csproj.CoreCompileInputs.cache
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\Question1098.dll
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\refint\Question1098.dll
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\Question1098.pdb
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\Question1098.genruntimeconfig.cache
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1098\Question1098\obj\Debug\net6.0\ref\Question1098.dll

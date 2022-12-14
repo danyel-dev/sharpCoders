@@ -1,0 +1,15 @@
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\bin\Debug\net6.0\Question1435.exe
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\bin\Debug\net6.0\Question1435.deps.json
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\bin\Debug\net6.0\Question1435.runtimeconfig.json
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\bin\Debug\net6.0\Question1435.dll
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\bin\Debug\net6.0\Question1435.pdb
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\Question1435.csproj.AssemblyReference.cache
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\Question1435.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\Question1435.AssemblyInfoInputs.cache
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\Question1435.AssemblyInfo.cs
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\Question1435.csproj.CoreCompileInputs.cache
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\Question1435.dll
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\refint\Question1435.dll
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\Question1435.pdb
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\Question1435.genruntimeconfig.cache
+C:\Users\Danye\OneDrive\Documentos\Exercises\Question1435\Question1435\obj\Debug\net6.0\ref\Question1435.dll
