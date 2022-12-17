@@ -1,0 +1,15 @@
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\bin\Debug\net6.0\Question2407.exe
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\bin\Debug\net6.0\Question2407.deps.json
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\bin\Debug\net6.0\Question2407.runtimeconfig.json
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\bin\Debug\net6.0\Question2407.dll
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\bin\Debug\net6.0\Question2407.pdb
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\Question2407.csproj.AssemblyReference.cache
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\Question2407.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\Question2407.AssemblyInfoInputs.cache
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\Question2407.AssemblyInfo.cs
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\Question2407.csproj.CoreCompileInputs.cache
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\Question2407.dll
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\refint\Question2407.dll
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\Question2407.pdb
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\Question2407.genruntimeconfig.cache
+C:\Users\Danye\Documents\sharpCoders\Exercises\Question2407\Question2407\obj\Debug\net6.0\ref\Question2407.dll
